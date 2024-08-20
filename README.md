@@ -49,32 +49,6 @@
 </div>
 
 
-## Langkah nya broo<!-- Required -->
-MARIO LESS
-
-Langkah: buat folder di gitHub melalui terminal yang bernama Mario_less
-Kemudian ikuti petunjuk dari CS50 dibawah:
-
-https://cs50.harvard.edu/x/2023/psets/1/mario/less/
-
-Materi:
-https://cdn.cs50.net/2022/fall/psets/1/mario-less.zip
-
-https://youtu.be/aGLTy7Rjgho
-
-## Cmd <!-- Required -->
-<!-- 
-* Here you may add information about how 
-* 
-* and why to use this project.
--->
-
-
-
-```bash
-    ./mario
-```
-
 
 
 
